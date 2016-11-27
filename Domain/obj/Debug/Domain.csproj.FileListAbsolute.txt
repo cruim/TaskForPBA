@@ -1,0 +1,69 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\BookStore\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\Domain.dll.config
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\Domain.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\Domain.pdb
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\EntityFramework.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\EntityFramework.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\obj\Debug\Domain.dll
+C:\Users\036.036-ПК\Desktop\BookStore — Part1000\Domain\obj\Debug\Domain.pdb
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\Domain.dll.config
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\Domain.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\Domain.pdb
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\EntityFramework.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\EntityFramework.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\obj\Debug\Domain.dll
+C:\Users\036.036-ПК\Desktop\Новая папка\BookStore — Part1000\Domain\obj\Debug\Domain.pdb
